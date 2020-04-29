@@ -19,8 +19,8 @@ library('cerebroApp')
 
 param_project = "N1613"
 param_organism = "mm" # Organism: hg or mm
-param_path_project= "datasets/N1613/"
-param_path_matrix = "datasets/N1613/outs/filtered_feature_bc_matrix.h5" # .h5 file to for matrix
+param_path_project= "/lager2/rcug_cd/pbmc/"
+param_path_matrix = "/lager2/rcug_cd/pbmc/pbmc_1k_v3_filtered_feature_bc_matrix.h5" # .h5 file to for matrix
 param_gmt_file = "c2.all.v7.1.symbols.gmt"
 
 ```
